@@ -72,7 +72,7 @@ function start(){
     $('#score-0').text('0');
     $('#score-1').text('0');
     $('#name-0').text('Player 1');
-    $('#name-0').text('Player 2');
+    $('#name-1').text('Player 2');
     $('.panel').removeClass('winner');
     $('.dice').hide();
     $('.dice-2').hide();
